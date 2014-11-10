@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DataSourceManagerImpl" format="xml" hash="1191187741">
+    <data-source source="LOCAL" name="zawya dev" uuid="d4d7dc18-8093-4aed-af17-e4e9f08e785f">
+      <driver-ref>mysql</driver-ref>
+      <jdbc-driver>com.mysql.jdbc.Driver</jdbc-driver>
+      <jdbc-url>jdbc:mysql://localhost/mifzawy_zawya?useUnicode=yes&amp;characterEncoding=UTF-8</jdbc-url>
+      <user-name>mifzawy_alaa</user-name>
+      <user-password>dfd0dfcbdfd0dfcbdfd0dfcbdfd0dfcbdf93df9a</user-password>
+      <libraries>
+        <library>
+          <url>file://$USER_HOME$/githubs/zawya/lib/mysql-connector-java-5.1.28-bin.jar</url>
+        </library>
+      </libraries>
+    </data-source>
+  </component>
+</project>
+
